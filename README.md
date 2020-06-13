@@ -12,5 +12,5 @@ TECHNOVANZA 2020
 ## <ins>Note</ins></br>
 This portfolio site is a Responsive one!!!</br></br>
 
-## <ins>Link</ins>:
-## <ins>Link</ins>:
+## <ins>Link</ins>:https://bala-portfolio.glitch.me/Index.html
+## <ins>Link</ins>:https://bharath-portfolio.glitch.me/Index.html
